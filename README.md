@@ -1,4 +1,4 @@
-# 👋 Soy Mike / digemAI
+# 👋 Mike / digemAI
 
 No estoy “formándome como programador”.  
 Estoy dándole forma a un estilo propio:  
