@@ -18,6 +18,7 @@ Desarrollé Noviembre para explorar cómo la tecnología puede ayudarnos a refle
 
 Características
 • Módulos V1: Emociones, Reflexiones, Metas, Momentos
+
 • Memoria viva: Los datos se guardan localmente en JSON, para que siempre tengas control total de tu información
 
 Ver proyecto: [Noviembre](https://github.com/digemAI/Noviembre)
