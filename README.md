@@ -9,12 +9,7 @@ y que un proyecto puede hacer sentir tanto como un libro o una escena.
 Mi código no busca impresionar.  
 Busca **provocar**.
 
-
-
-
-
-
-### 🚀 Proyectos
+### 🚀 PROYECTOS
 
 ### 🟣 Noviembre — Diario emocional (V1)
 
