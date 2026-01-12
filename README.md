@@ -31,8 +31,11 @@ Desarrollé APIM VI para explorar cómo un sistema de Inteligencia Artificial pu
 Características:
 
 • Clasificación de hábitos financieros: ahorro, gastos, impulsividad y fondo de emergencia
+
 • Score inteligente: combina reglas (V2) y una red neuronal PyTorch (V3 en shadow mode)
+
 • Recomendaciones prácticas
+
 • Historial y aprendizaje: cada ejecución se guarda y se usa para mejorar el modelo
 
 Ver proyecto: [APIM VI](https://github.com/digemAI/apim-vi)
