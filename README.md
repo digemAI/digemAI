@@ -16,10 +16,11 @@ Busca **provocar**.
 
 Desarrollé Noviembre para explorar cómo la tecnología puede ayudarnos a reflexionar sobre nuestras emociones.
 
-Características
-• Módulos V1: Emociones, Reflexiones, Metas, Momentos
+Características:
 
-• Memoria viva: Los datos se guardan localmente en JSON, para que siempre tengas control total de tu información
+  • Módulos V1: Emociones, Reflexiones, Metas, Momentos
+
+  • Memoria viva: Los datos se guardan localmente en JSON, para que siempre tengas control total de tu información
 
 Ver proyecto: [Noviembre](https://github.com/digemAI/Noviembre)
 
