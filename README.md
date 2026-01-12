@@ -24,3 +24,14 @@ Características:
 
 Ver proyecto: [Noviembre](https://github.com/digemAI/Noviembre)
 
+
+🤑 APIM VI — Test financiero con IA (V3)
+
+Desarrollé APIM VI para explorar cómo un sistema de Inteligencia Artificial puede analizar hábitos financieros y generar planes accionables.
+
+Características:
+
+• Clasificación de hábitos financieros: ahorro, gastos, impulsividad y fondo de emergencia
+• Score inteligente: combina reglas (V2) y una red neuronal PyTorch (V3 en shadow mode)
+• Recomendaciones prácticas
+• Historial y aprendizaje: cada ejecución se guarda y se usa para mejorar el modelo
