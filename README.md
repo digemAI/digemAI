@@ -31,9 +31,9 @@ I built NEFILIM to explore how a system can read behavioral signals over time an
 Features:
 
 
-State detection: reads input records and classifies state (stable, warning, risk)
-Trend analysis: compares historical records to catch patterns, not just single snapshots
-Now with visualization (V3): the system doesn't just answer in console — it shows itself
+* State detection: reads input records and classifies state (stable, warning, risk)
+* Trend analysis: compares historical records to catch patterns, not just single snapshots
+* Now with visualization (V3): the system doesn't just answer in console — it shows itself
 
 
 See project: NEFILIM
@@ -45,10 +45,10 @@ I built APIM VI to explore how an AI system can analyze financial habits and tur
 Features:
 
 
-Habit classification: savings, spending, impulsiveness, and emergency fund
-Smart scoring: combines rule-based logic (V2) with a PyTorch neural network (V3, shadow mode)
-Practical recommendations
-History and learning: every run is saved and used to improve the model
+* Habit classification: savings, spending, impulsiveness, and emergency fund
+* Smart scoring: combines rule-based logic (V2) with a PyTorch neural network (V3, shadow mode)
+* Practical recommendations
+* History and learning: every run is saved and used to improve the model
 
 
 See project: APIM VI
