@@ -18,8 +18,8 @@ I built Noviembre to explore how technology can help us reflect on our emotions.
 Features:
 
 
-V1 modules: Emotions, Reflections, Goals, Moments
-Living memory: data is saved locally in JSON, so you always stay in full control of your information
+* V1 modules: Emotions, Reflections, Goals, Moments
+* Living memory: data is saved locally in JSON, so you always stay in full control of your information
 
 
 See project: Noviembre
