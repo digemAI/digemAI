@@ -1,41 +1,57 @@
-# 👋 Mike / digemAI
+👋 Mike / digemAI
 
-Estoy dándole forma a un estilo propio:  
-🪶 **tecnología con identidad humana**.
+I'm shaping a style of my own:
+🌱 technology with human identity.
 
-Descubrí que Python, SQL y la IA también pueden ser tinta  
-y que un proyecto puede hacer sentir tanto como un libro o una escena.
+I discovered that Python, SQL, and AI can be ink too —
+and that a project can make you feel as much as a book or a scene.
 
-Mi código no busca impresionar.  
-Busca **provocar**.
+My code doesn't try to impress.
+It tries to provoke.
 
-### 🚀 PROYECTOS
+🚀 PROJECTS
 
-### 🟣 Noviembre — Diario emocional (V1)
+🟣 Noviembre — Emotional Journal (V1)
 
-Desarrollé Noviembre para explorar cómo la tecnología puede ayudarnos a reflexionar sobre nuestras emociones.
+I built Noviembre to explore how technology can help us reflect on our emotions.
 
-Características:
-
-  • Módulos V1: Emociones, Reflexiones, Metas, Momentos
-
-  • Memoria viva: Los datos se guardan localmente en JSON, para que siempre tengas control total de tu información
-
-Ver proyecto: [Noviembre](https://github.com/digemAI/Noviembre)
+Features:
 
 
-### 🤑 APIM VI — Test financiero con IA (V3)
+V1 modules: Emotions, Reflections, Goals, Moments
+Living memory: data is saved locally in JSON, so you always stay in full control of your information
 
-Desarrollé APIM VI para explorar cómo un sistema de Inteligencia Artificial puede analizar hábitos financieros y generar planes accionables.
 
-Características:
+See project: Noviembre
 
-• Clasificación de hábitos financieros: ahorro, gastos, impulsividad y fondo de emergencia
+🧠 NEFILIM — Behavioral State Detector (V3)
 
-• Score inteligente: combina reglas (V2) y una red neuronal PyTorch (V3 en shadow mode)
+I built NEFILIM to explore how a system can read behavioral signals over time and turn them into something meaningful — not just a number, but a trend worth paying attention to.
 
-• Recomendaciones prácticas
+Features:
 
-• Historial y aprendizaje: cada ejecución se guarda y se usa para mejorar el modelo
 
-Ver proyecto: [APIM VI](https://github.com/digemAI/apim-vi)
+State detection: reads input records and classifies state (stable, warning, risk)
+Trend analysis: compares historical records to catch patterns, not just single snapshots
+Now with visualization (V3): the system doesn't just answer in console — it shows itself
+
+
+See project: NEFILIM
+
+🤖 APIM VI — AI-Powered Financial Profiler (V3)
+
+I built APIM VI to explore how an AI system can analyze financial habits and turn them into actionable plans.
+
+Features:
+
+
+Habit classification: savings, spending, impulsiveness, and emergency fund
+Smart scoring: combines rule-based logic (V2) with a PyTorch neural network (V3, shadow mode)
+Practical recommendations
+History and learning: every run is saved and used to improve the model
+
+
+See project: APIM VI
+
+
+🔭 What's next on the radar: a multimodal system combining NLP, Computer Vision, and Deep Learning
