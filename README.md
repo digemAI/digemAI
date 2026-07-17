@@ -15,7 +15,7 @@ It tries to provoke.
 
 ### 🟣 Noviembre — Emotional Journal (V1)
 
-I built Noviembre to explore how technology can help us reflect on our emotions.
+The friend that's always there — the one you tell everything to.
 
 **Features:**
 - V1 modules: Emotions, Reflections, Goals, Moments
@@ -27,7 +27,7 @@ I built Noviembre to explore how technology can help us reflect on our emotions.
 
 ### 🧠 NEFILIM — Behavioral State Detector (V3)
 
-I built NEFILIM to explore how a system can read behavioral signals over time and turn them into something meaningful — not just a number, but a trend worth paying attention to.
+The one who watches — noticing what you miss in yourself before you give in to it.
 
 **Features:**
 - State detection: reads input records and classifies state (stable, warning, risk)
@@ -40,7 +40,7 @@ I built NEFILIM to explore how a system can read behavioral signals over time an
 
 ### 🤖 APIM VI — AI-Powered Financial Profiler (V3)
 
-I built APIM VI to explore how an AI system can analyze financial habits and turn them into actionable plans.
+The specialist — reads your financial habits and turns them into a plan.
 
 **Features:**
 - Habit classification: savings, spending, impulsiveness, and emergency fund
