@@ -13,13 +13,16 @@ It tries to provoke.
 
 ## 🚀 Projects
 
-### 🟣 Noviembre — Emotional Journal (V1)
+### 🟣 Noviembre — Emotional Journal (V3)
 
 The friend that's always there — the one you tell everything to.
 
 **Features:**
-- V1 modules: Emotions, Reflections, Goals, Moments
-- Living memory: data is saved locally in JSON, so you always stay in full control of your information
+- Structured journaling and freeform chat: four guided modules (Emotions, Reflections, Goals, Moments) plus an open conversation that detects mood and adapts in real time
+
+- Living memory on two layers: every entry is saved to SQLite and JSON, so the app remembers across sessions, not just within one
+
+- Browsable history (V3): revisit everything you've shared, grouped by date and filterable by type
 
 **See project:** [Noviembre](https://github.com/digemAI/Noviembre)
 
